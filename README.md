@@ -1,5 +1,5 @@
 # WebsiteUX
-![WebsiteUX Header](https://github.com/xavier-lim/websiteUX/blob/main/images/header.png)
+![WebsiteUX Header](https://github.com/xavier-lim/websiteUX/blob/main/images/accenture_header.png)
 
 As part of Accenture's Discovery Program (Virtual Internship), I created this project to analyze the impact of a web page change on user experience (UX) for the Department for Student Support (DSS). The DSS allows students enrolled in higher education to apply for grants, bursaries, and rebates on their website. After analyzing user journey and user feedback, numerous website changes were made. In this project, I analyze the results of the website changes. I also provide numerous recommendations on how the company can further improve their website.
 
