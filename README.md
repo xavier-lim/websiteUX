@@ -30,6 +30,11 @@ All the data for this project was collected from [Forage](https://www.theforage.
 
 ![Timeouts](https://github.com/xavier-lim/websiteUX/blob/main/images/timeouts.PNG)
 
+---
+
+Tableau Interactive Version: [DSS Website Analytics Dashboard](https://public.tableau.com/profile/xavier.lim#!/vizhome/websiteUX/DSSWebsiteAnalytics)
+
+![Dashboard](https://github.com/xavier-lim/websiteUX/blob/main/images/tableau.PNG)
 
 ## Conclusion
 Overall, the Department for Student Support (DSS) website change has definitely improved user experience (UX). Specifically, the number of timeouts have decreased significantly from an average of 65 per day to 20 per day. In addition, the number of successful submissions has nearly doubled from an average of 60 per day to 110 per day.
